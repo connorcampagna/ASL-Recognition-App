@@ -1,4 +1,4 @@
-# 🤟 handy-fingers-connorcampagna
+# 🤟 ASL Recognition App 
 
 [![CI](https://github.com/connorcampagna/handy-fingers-connorcampagna/actions/workflows/ci.yml/badge.svg)](https://github.com/connorcampagna/handy-fingers-connorcampagna/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](./LICENSE)
