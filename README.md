@@ -241,22 +241,6 @@ Enjoy! 🤟✨
 
 ---
 
-## 📸 Screenshots
-
-### Basic Mode
-![ASL recognition](./docs/screenshots/basic_mode.png)
-*Real-time ASL sign detection with confidence indicators.*
-
-### Spell Mode
-![Spell mode in action](./docs/screenshots/spell_mode.png)
-*Build words letter-by-letter using ASL signs.*
-
-### Focus Mode
-![Focus mode with large sign](./docs/screenshots/focus_mode.png)
-*Large, high-contrast sign display for clear viewing.*
-
----
-
 ## 🛠️ Development
 
 ```bash
@@ -287,4 +271,3 @@ handy-fingers --spell-mode --watermark
 
 ---
 
-**Made with ❤️ by Connor Campagna** | [GitHub](https://github.com/connorcampagna)
