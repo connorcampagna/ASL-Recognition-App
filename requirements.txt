@@ -1,0 +1,19 @@
+# handy-fingers-connorcampagna
+# Requirements pinned for reproducibility
+
+# Core dependencies
+opencv-python==4.9.0.80  # Cross-platform, includes GUI support
+mediapipe==0.10.9  # Hand landmark detection
+numpy==1.26.4  # Numerical operations
+typer==0.9.0  # CLI interface
+
+# Note: On Linux, you may need to install system packages for OpenCV GUI:
+#   Ubuntu/Debian: sudo apt-get install libgl1-mesa-glx libglib2.0-0
+#   Fedora: sudo dnf install mesa-libGL glib2
+
+# Development dependencies (install with: pip install -e ".[dev]")
+# pytest==7.4.3
+# pytest-cov==4.1.0
+# black==23.12.1
+# isort==5.13.2
+# ruff==0.1.9
